@@ -138,12 +138,12 @@ Analisando a saída com as operações, percebi que não estava voltando os resu
 ### Criando uma `Lista`
 <img src="https://i.imgur.com/LhnKo2C.png">
 
-### ✅ Resultado:
+### Resultado:
 
 <img src="https://i.imgur.com/Zc3fefX.png">
 
 
-## Resultado Final
+## ✅ Resultado Final
 
 ### Antes da Solução:
 
