@@ -117,6 +117,32 @@ Para adicionar essa funcionalidade, fizemos a seguinte adição:
 
 <img src="https://i.imgur.com/wZEKSdS.png">
 
+## Informação Adicional:
+
+Analisando a saída com as operações, percebi que não estava voltando os resultados na ordem que eu gostaria. Sendo assim, pesquisei uma maneira de tentar solucionar essa situação e encontrei duas maneiras:
+
+1. Usar a `Pilha` e inverter a ordem
+
+- Aqui vamos continuar usando a pilha para armazenar os resultados normalmente, no final vamos apenas alterar o método e acrescentar o `Reverse` para inverter a ordem dos elementos da lista. Isso vai garantir que os cálculos sejam impressos na mesma ordem em que as operações foram processadas.
+
+### Adicionando o método `Reverse`:
+<img src="https://i.imgur.com/J2RtK86.png">
+
+### Resultado:
+<img src="https://i.imgur.com/gKoXBGf.png">
+
+2. Usar uma `Lista` para manter a ordem correta
+
+- Aqui nós vamos utilizar uma `Lista` no lugar da `Pilha` para armazenar os resultados necessários. A `Lista` vai manter a ordem que estamos buscando, garantido que o resultado seja impresso na ordem correta.
+
+### Criando uma `Lista`
+<img src="https://i.imgur.com/LhnKo2C.png">
+
+### Resultado:
+
+<img src="https://i.imgur.com/Zc3fefX.png">
+
+
 ## Resultado Final
 
 ### Antes da Solução:
